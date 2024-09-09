@@ -26,7 +26,7 @@ Studying VLSI design in electronics @ Goa Engineering College
 )
 ### Edge Computing
 - C++ llama.cpp on Android
-- Read about it: [Mirror xyz article](https://mirror.xyz/0x67ba96e45048e0f4fa2e94c0e1d838961922d9ea/jzutffxta711kaljfauy6f2km4j8gbhv1yymdxtc0xe)
+- Read about it: [Mirror xyz article](https://mirror.xyz/0x67bA96E45048E0F4Fa2E94c0e1d838961922D9Ea/JZUTffXTa711kaLJFauy6F2Km4j8GBhv1YymDxtC0xE)
 ### More Stuff I've Built
 - My Neovim setup: [https://github.com/quantaindew/nvim](https://github.com/quantaindew/nvim)
 - LLM agent frameworks (won 1st place at NIT Goa as a freshman): [github submission](https://github.com/fetchai/uagents/pull/342)
