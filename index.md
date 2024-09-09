@@ -22,14 +22,16 @@ Studying VLSI design in electronics @ Goa Engineering College
 
 ### Engicos Coders Club
 - Official site: [https://github.com/engicos-coders-club/club-official-website](https://github.com/engicos-coders-club/club-official-website)
-- Check it out: [https://engicos-coders-club.github.io/club-official-website/](https://engicos-coders-club.github.io/club-official-website/
-)
+- Check it out: [https://engicos-coders-club.github.io/club-official-website/](https://engicos-coders-club.github.io/club-official-website/)
+
 ### Edge Computing
 - C++ llama.cpp on Android
 - Read about it: [Mirror xyz article](https://mirror.xyz/0x67bA96E45048E0F4Fa2E94c0e1d838961922D9Ea/JZUTffXTa711kaLJFauy6F2Km4j8GBhv1YymDxtC0xE)
+
 ### More Stuff I've Built
 - My Neovim setup: [https://github.com/quantaindew/nvim](https://github.com/quantaindew/nvim)
 - LLM agent frameworks (won 1st place at NIT Goa as a freshman): [github submission](https://github.com/fetchai/uagents/pull/342)
+
 ## What I'm Working On Now
 - Porting ZK-SNARKS to [AOS](https://github.com/permaweb/aos)
 - Compiling runtimes, libraries and cross compiling rust, c and lua into wasm64 binaries
