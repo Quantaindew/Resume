@@ -6,7 +6,7 @@
 ## I Build Stuff
 
 ## What I'm Working On Now
-- Founded  @ [x.com/a0labs](https://x.com/a0labs), built a ZK Bridge in 5 days
+- Founded  @ [x.com/a0labs](https://x.com/a0labs), built a ZK Bridge in 5 days [article](https://devpost.com/software/a0-zero-knowledge-evm-bridge)
 - Bringing ZK-SNARKS based tools to [AOS](https://github.com/permaweb/aos)
 - Compiling runtimes, libraries and cross compiling rust, c and lua into wasm64 binaries
 - Digging into zig and risc-v assembly
