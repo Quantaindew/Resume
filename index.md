@@ -36,11 +36,11 @@
 
 
 ## Hackthons 2024 (Came First in 5, Second in 1, Didn't Show up for Prize the 6'th one)
-- 1)https://x.com/Weavers_Org/status/1855926271282209168
-- 2)https://x.com/onlyarweave/status/1861871445305184667
-- 3)https://www.instagram.com/p/C51GBtnCiY7/?img_index=1&igsh=dHN5d3JxamdzbHdt
-- 4)https://x.com/Gaianet_AI/status/1848747513056055788
-- 5)https://devfolio.co/projects/omelette-bb98
+- 1) [https://x.com/Weavers_Org/status/1855926271282209168](https://x.com/Weavers_Org/status/1855926271282209168)
+- 2) [https://x.com/onlyarweave/status/1861871445305184667](https://x.com/onlyarweave/status/1861871445305184667)
+- 3) [https://www.instagram.com/p/C51GBtnCiY7/?img_index=1&igsh=dHN5d3JxamdzbHdt](https://www.instagram.com/p/C51GBtnCiY7/?img_index=1&igsh=dHN5d3JxamdzbHdt)
+- 4) [https://x.com/Gaianet_AI/status/1848747513056055788](https://x.com/Gaianet_AI/status/1848747513056055788)
+- 5) [https://devfolio.co/projects/omelette-bb98](https://devfolio.co/projects/omelette-bb98)
 - 6) Goa Police Hackathon
 
 
